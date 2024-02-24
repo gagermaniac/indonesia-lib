@@ -1,0 +1,27 @@
+{
+  "name": "indonesia-lib",
+  "version": "1.0.0",
+  "description": "Kumpulan helper region indonesia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagermaniac/indonesia-lib.git"
+  },
+  "keywords": [
+    "Indonesia",
+    "Lib"
+  ],
+  "author": "gagermaniac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gagermaniac/indonesia-lib/issues"
+  },
+  "homepage": "https://github.com/gagermaniac/indonesia-lib#readme",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "typescript": "^5.3.3"
+  }
+}
