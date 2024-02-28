@@ -1,6 +1,6 @@
 {
   "name": "indonesia-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Kumpulan helper region indonesia",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gagermaniac/indonesia-lib.git"
+    "url": "https://github.com/gagermaniac/indonesia-lib"
   },
   "keywords": [
     "Indonesia",
